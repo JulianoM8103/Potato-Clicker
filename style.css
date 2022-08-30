@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(209, 172, 8);
+}
+
+.patate {
+    height: 300px;
+    width: 500px;
+}
